@@ -6,3 +6,5 @@ available dataset (url = "https://raw.githubusercontent.com/jbrownlee/Datasets/m
 Using mainly sklearn and panda libraries
 
 Hopefully these series of tutorials prove useful in my next step to deploy more specialized framework for PEM :)
+
+Will upload expriements on frameworks i.e. Tenserflow or PyTorch on a separate directory; currently learning!
